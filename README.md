@@ -1,5 +1,7 @@
 # Discord Bot
 
+-> Bilgisayarınızda discord.py  kütüphanesinin indirili olması gerekmektedir!
+
 -> Discord Botumu https://discord.com/developers sitesinden bot oluşturup alacağınız token ile istediğiniz sunucuda kullanabilirsiniz.
 
 - '#' ile yazdığım notlara kesinlikle göz atınız yoksa hata alırsınız.
